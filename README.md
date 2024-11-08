@@ -1,4 +1,4 @@
-# stash-copernicuz
+# copernicuz-stash
 
 Custom Stash scripts I've written and use.
 
