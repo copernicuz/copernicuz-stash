@@ -1,0 +1,5 @@
+/* Simple way to disable the black backdrop when hovering over a preview in the scene/marker wall view */
+
+.wall-item:before {
+  background-color: #00000000;
+}
