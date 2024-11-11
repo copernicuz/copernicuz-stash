@@ -1,6 +1,6 @@
 # copernicuz-stash
 
-Custom Stash scripts I've written and use.
+Custom [Stash](https://github.com/stashapp/stash) scripts I've written and use.
 
 ## Installing
 
