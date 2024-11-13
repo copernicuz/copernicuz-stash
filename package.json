@@ -1,13 +1,12 @@
 {
   "name": "stash-theme",
   "version": "0.0.1",
-  "main": "transform-css.js",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "AGPL-3.0-only",
+  "license": "MIT",
   "description": "",
   "dependencies": {
     "postcss": "^8.4.47"
