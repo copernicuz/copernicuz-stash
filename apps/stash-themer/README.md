@@ -1,3 +1,6 @@
+> THIS IS NOT FINISIHED AND NOT USABLE CURRENTLY
+
+
 # Stash Base CSS Creator
 
 This is a small script which transforms Stash's original CSS file into something that's easy to theme.
